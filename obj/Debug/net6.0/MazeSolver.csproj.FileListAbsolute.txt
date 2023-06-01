@@ -1,0 +1,15 @@
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\bin\Debug\net6.0\MazeSolver.exe
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\bin\Debug\net6.0\MazeSolver.deps.json
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\bin\Debug\net6.0\MazeSolver.runtimeconfig.json
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\bin\Debug\net6.0\MazeSolver.dll
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\bin\Debug\net6.0\MazeSolver.pdb
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.csproj.AssemblyReference.cache
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.AssemblyInfo.cs
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.dll
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\refint\MazeSolver.dll
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.pdb
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\MazeSolver.genruntimeconfig.cache
+C:\Users\Valeria\OneDrive - Neumont College of Computer Science\Courses\Quarter 7\CSC250\Work\CSC250\MazeSolver\obj\Debug\net6.0\ref\MazeSolver.dll
